@@ -9,4 +9,4 @@
 
 ## Install
 
-`mv AdbPush.workflow ~/Library/Services/`
+`cp -r AdbPush.workflow ~/Library/Services/`
